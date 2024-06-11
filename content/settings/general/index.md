@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Olivia Wartenberg "
-description = "A Lifelong Journey"
+description = "Blog"
 footerLeft = "Powered by 💜 [Lilo.page](https://www.lilo.page)"
 footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
