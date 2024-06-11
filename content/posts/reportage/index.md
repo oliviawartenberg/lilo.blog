@@ -6,30 +6,13 @@ pinned = false
 +++
 # Nicht behindert, sondern anders.
 
-
-
- 
-
-
-
 Es ist schwer, wenn jeder von dir erwartet, dich anzupassen, ohne sich selbst anzupassen. Eine Behinderung kann aus vielen Sichtweisen betrachtet werden. Das Wort „Behinderung“ beschreibt Menschen, die physische oder psychische Einschränkungen haben. Die Behinderung entsteht in der Gesellschaft und das eigentliche Problem, welches die betroffenen Menschen mit einer Behinderung haben, ist nicht ihre eigentliche Behinderung, sondern wie die Gesellschaft damit umgeht.
-
-
 
  Blicke, starrende Blicke, Mitleid bekommen, obwohl man gar kein Mitleid möchte. Von Anfang an wissen, dass man sich anpassen muss und nicht umgekehrt. Zu hören, es sei wichtig, gleichberechtigt behandelt zu werden, und trotzdem den Eindruck haben, dass die Menschen diesem Thema aus dem Weg gehen und nicht gerne darüber sprechen. Sie haben Angst, es auch einmal zu kriegen. Etwas, was sich in vielen Hinsichten grundsätzlich nicht von den anderen unterscheidet, doch trotzdem sehen es alle so. Etwas, was jedem Menschen passieren kann, was nicht mit dem Menschen selbst zu tun hat. Etwas mit dem man geboren wird, oder es durch einen Unfall oder Krankheit bekommt. Man kann nichts dafür, doch trotzdem wird man nicht gleichbehandelt.
 
 Der Alltag einer Person mit einer Behinderung sieht genau gleich aus wie jeder andere Alltag. Man steht auf, frühstückt, geht zur Schule oder Arbeit und nervt sich wieder, wie an jedem Tag, über dieselbe Person im Klassenzimmer oder Büro. Menschen mit einer Behinderung haben dieselben Probleme wie jeder andere Mensch. Was den Alltag aber unterscheidet, sind die Hindernisse, mit denen eine Person mit einer Behinderung konfrontiert wird. Es fängt unter anderem bei den öffentlichen Verkehrsmitteln an: In den Bus einzusteigen oder mit dem Zug zu fahren, ist für viele etwas Spontanes und Selbstverständliches, für andere jedoch ist es eine enorme Herausforderung. Damit man sicher an sein Ziel kommt, muss man vorzeitig planen und organisieren. Man muss zum Beispiel mögliche Schwierigkeiten auf dem Weg zum Zug einplanen, ein behindertengerechtes Taxi organisieren, welches am Bahnhof wartet, sowie auf Hilfe beim Ein- und Aussteigen hoffen.
 
 Es gibt einige Organisationen, welche sich für die Rechte und die Akzeptanz von Menschen mit Behinderungen einsetzen. Doch die Akzeptanz und der Umgang damit ist in unserer Gesellschaft weiterhin ein schwieriges Thema, welches gerne zur Seite geschoben wird. Die meisten Menschen mit einer Behinderung sind in unserer Gesellschaft immer noch nicht gleichgestellt und müssen sich teilweise selbst anpassen. Viele in unserer Gesellschaft sind der Meinung, dass Menschen mit einer Behinderung schon längst gleichberechtigt sind und die Diskussionen hierüber übertrieben sind, doch die Gleichberechtigung ist bei Weitem noch nicht Realität.
-
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
-
-
-
-Abbildung 1: Rollstuhl (eigene Aufnahme)
 
 Deshalb sind Änderungen dringend nötig. Es braucht nicht nur rechtliche und organisatorische Änderungen, sondern auch eine Änderung der in der Gesellschaft vorherrschenden Denkweise.
 
@@ -44,8 +27,6 @@ Sie erklärt, dass die Behinderung erst in der Gesellschaft entsteht. Dazu sagt 
 ## Das Verständnis ist wichtig
 
 Um den Alltag einer Person mit einer Behinderung einfacher zu machen, ist die Organisation und die Kommunikation wichtig. Die Dinge so zu organisieren und zu planen, dass ein Mensch trotz seiner Behinderung im Alltag nicht eingeschränkt ist, ist eine Herausforderung. Diese zu meistern hat viel mit Kommunikation, Vertrauen und Verständnis zu tun. Das Verständnis von uns allen ist einer der wichtigsten Aspekte. Um die Schwierigkeiten, welche eine Behinderung mit sich bringt, zu verstehen und helfen zu können, braucht man das Verständnis für die manchmal erheblichen Schwierigkeiten,welche ein behinderter Mensch im Alltag hat.
-
- 
 
 Wir haben Sébastien Kessler, der seit seiner Geburt auf den Rollstuhl angewiesen ist, gefragt, mit welchen Problemen er im Alltag konfrontiert wird. Darauf antwortete er:“Es sind keine wirklichen Probleme, vielmehr Schwierigkeiten.“ Damit meint er Schwierigkeiten, wie zum Beispiel das Anziehen, das Aufsuchen der Toilette oder die Fortbewegung. Eine weitere Frage, die uns interessiert ist, welche Erfahrungen er beim Reisen mit den neuen Zügen in der Schweiz gemacht hat und welche Schwierigkeiten auftraten. Seitdem die neuen Züge in der Schweiz fahren, muss er nicht nur berücksichtigen, wann der Zug abfährt, sondern auch welches Modell des Zuges fährt. Er schildert, dass er bei den neuen Modellen mit seinem elektrischen Rollstuhl reisen müsse, da er auf der Rampe beim Aussteigen sonst höchstwahrscheinlich umkippen würde. Nicht nur die Rampe ist ein Problem, sondern auch der Abstand zwischen dem Gleis und dem Zug führt in manchen Bahnhöfen zu schwierigen Situationen. Er erklärt auch weiter, dass er deswegen lieber in Lausanne als in Bern umsteigt, da der Abstand dort geringer sei. Nicht nur das Reisen, sondern auch der Aufenthalt an öffentlichen Orten ist manchmal mit Problemen verbunden, da diese unter anderem nicht immer gut zugänglich sind oder zum Beispiel der Tisch in einem Restaurant zu hoch zum Essen ist.
 
